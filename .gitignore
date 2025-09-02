@@ -1,0 +1,33 @@
+# MATLAB generated files
+*.asv
+*.mex*
+*.mat
+*.fig
+*.slxc
+*.autosave
+
+# Generated GIF animations
+*.gif
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Temporary files
+temp/
+tmp/
